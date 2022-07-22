@@ -1,0 +1,17 @@
+﻿<Store>
+  <Stores>
+    <Store_id>s1</Store_id>
+    <Store_name>gel store</Store_name>
+    <Total_order>1</Total_order>
+  </Stores>
+  <Stores>
+    <Store_id>s2</Store_id>
+    <Store_name>cleaner store</Store_name>
+    <Total_order>2</Total_order>
+  </Stores>
+  <Stores>
+    <Store_id>s3</Store_id>
+    <Store_name>toothpaste store</Store_name>
+    <Total_order>3</Total_order>
+  </Stores>
+</Store>

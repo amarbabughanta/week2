@@ -1,0 +1,17 @@
+﻿<Category>
+  <Categories>
+    <Category_id>c1</Category_id>
+    <Category_name>gel</Category_name>
+    <quantity>1</quantity>
+  </Categories>
+  <Categories>
+    <Category_id>c2</Category_id>
+    <Category_name>cleaner</Category_name>
+    <quantity>1</quantity>
+  </Categories>
+  <Categories>
+    <Category_id>c3</Category_id>
+    <Category_name>toothpaste</Category_name>
+    <quantity>1</quantity>
+  </Categories>
+</Category>

@@ -1,0 +1,20 @@
+﻿<Customer_details>
+  <Customerdetails>
+    <customer_id>c1</customer_id>
+    <customer_name>john</customer_name>
+    <customer_address>ab street</customer_address>
+    <phone_number>12112</phone_number>
+  </Customerdetails>
+  <Customerdetails>
+    <customer_id>c2</customer_id>
+    <customer_name>rik</customer_name>
+    <customer_address>ab lane</customer_address>
+    <phone_number>2212</phone_number>
+  </Customerdetails>
+  <Customerdetails>
+    <customer_id>c3</customer_id>
+    <customer_name>riki</customer_name>
+    <customer_address>dc lane</customer_address>
+    <phone_number>332434</phone_number>
+  </Customerdetails>
+</Customer_details>

@@ -1,0 +1,20 @@
+﻿<Brands>
+  <Brand>
+    <Brand_id>b1</Brand_id>
+    <Brand_name>VIM GEl</Brand_name>
+    <quantity>2</quantity>
+    <price>1.0000000e+002</price>
+  </Brand>
+  <Brand>
+    <Brand_id>b2</Brand_id>
+    <Brand_name>colin</Brand_name>
+    <quantity>1</quantity>
+    <price>1.0020000e+002</price>
+  </Brand>
+  <Brand>
+    <Brand_id>b3</Brand_id>
+    <Brand_name>colgate</Brand_name>
+    <quantity>1</quantity>
+    <price>5.0000000e+001</price>
+  </Brand>
+</Brands>

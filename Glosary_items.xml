@@ -1,0 +1,20 @@
+﻿<Glosary_items>
+  <Glosaryitems>
+    <item_id>g1</item_id>
+    <stock>10 pices</stock>
+    <quantity>2</quantity>
+    <price>1.0000000e+002</price>
+  </Glosaryitems>
+  <Glosaryitems>
+    <item_id>g2</item_id>
+    <stock>20 pices</stock>
+    <quantity>3</quantity>
+    <price>1.5000000e+002</price>
+  </Glosaryitems>
+  <Glosaryitems>
+    <item_id>g3</item_id>
+    <stock>30 pices</stock>
+    <quantity>4</quantity>
+    <price>2.0000000e+002</price>
+  </Glosaryitems>
+</Glosary_items>
